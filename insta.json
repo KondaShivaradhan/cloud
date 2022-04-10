@@ -3,12 +3,12 @@
         "followers": 83
     },
     "games": [
-        "<span id='fps2'>Battlefield</span>",
-        "<span id='fps2'>Apex Legends</span>",
-        "<span id='fps2'>GTA</span>",
-        "<span id='fps2'>Rainbow 6 Siege</span>",
-        "<span id='fps2'>1v1lol</span>",
-        "<span id='fps2'>Fortnite</span>",
-        "many more..."
+        "<span id='fps2'>Battlefield</span> ",
+        "<span id='fps2'>Apex Legends</span> ",
+        "<span id='fps2'>GTA</span> ",
+        "<span id='fps2'>Rainbow 6 Siege</span> ",
+        "<span id='fps2'>1v1lol</span> ",
+        "<span id='fps2'>Fortnite</span> ",
+        "many more... "
     ]
 }
